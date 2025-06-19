@@ -1,0 +1,11 @@
+if (otherTag == "SomeCrystal")
+{
+    if (CurCount <= 10)
+    {
+        CurCount += 1;
+    }
+    else
+    {
+        CurCount += 2;
+    }
+}
